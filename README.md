@@ -42,7 +42,7 @@ All kexts downloaded from official repo
 
 ### Plist
 
-* Serial Numers are generated
+* Serial Numbers are generated using [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS)
 
 ## PlatformInfo
 
