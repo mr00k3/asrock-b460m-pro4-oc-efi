@@ -44,7 +44,7 @@ All kexts downloaded from official repo
 
 * Serial Numbers are generated using [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS)
 
-# PlatformInfo
+PlatfromInfo
 
 * iMac20,1
 
