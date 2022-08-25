@@ -40,6 +40,10 @@ All kexts downloaded from official repo
 * [VirtualSMC](https://github.com/acidanthera/VirtualSMC) - SMC emulator
 * [WhateverGreen.kext](https://github.com/acidanthera/WhateverGreen) - Graphics patches
 
+### Plist
+
+* Serial Numers are generated
+
 ## PlatformInfo
 
 * iMac20,1
