@@ -2,10 +2,9 @@
 EFI for ASRock B460M PRO4 + I5 10400F + PowerColor AMD Radeon RX570 4GB
 
 This Hackintosh is based on OpenCore `0.8.2` and `MacOS Monterey 12.6` I used [Dortania Guide](https://dortania.github.io/OpenCore-Install-Guide/) for [Comet Lake](https://dortania.github.io/OpenCore-Install-Guide/config.plist/comet-lake.html#starting-point).
-![](https://raw.githubusercontent.com/mr00k3/asrock-b460m-pro4-oc-efi/main/screenshots/screenshot.png)
+![](https://raw.githubusercontent.com/mr00k3/asrock-b460m-pro4-oc-efi/main/screenshots/screenshot.jpg)
 
 ### Notes
-    USB ports are not mapped
     Hibernation and Sleep don't work
     Built without WIFI and Bluetooth card
 
