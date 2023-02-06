@@ -9,8 +9,8 @@ This Hackintosh is based on OpenCore `0.8.8` and `MacOS Monterey 12.6` I used [D
     Audio
     USB
     Sleep and Hibernation
-## Broken Things
-    Phone calls from iPhone
+    FaceTime Calls
+
 ## Notes
     Built without WIFI and Bluetooth card
 
@@ -31,8 +31,9 @@ This Hackintosh is based on OpenCore `0.8.8` and `MacOS Monterey 12.6` I used [D
 Compiled using [SSDTTime](https://github.com/corpnewt/SSDTTime)
 
 * SSDT-AWAC
-* SSDT-EC
+* SSDT-EC-USBX
 * SSDT-PLUG
+* SSDT-HPET
 
 ## Kexts
 
