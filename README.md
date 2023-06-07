@@ -1,7 +1,7 @@
 # ASRock B460M PRO4 OpenCore EFI
 EFI for ASRock B460M PRO4 + I5 10400F + PowerColor AMD Radeon RX570 4GB
 
-This Hackintosh is based on OpenCore `0.9.2` and runs `macOS Ventura 13.4`
+This Hackintosh is based on OpenCore `0.9.2` and runs `macOS Ventura 13.4` <br>
 Made using [Dortania Guide](https://dortania.github.io/OpenCore-Install-Guide/) for [Comet Lake](https://dortania.github.io/OpenCore-Install-Guide/config.plist/comet-lake.html#starting-point).
 
 <p>
