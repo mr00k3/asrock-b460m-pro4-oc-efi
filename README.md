@@ -1,25 +1,26 @@
 # ASRock B460M PRO4 OpenCore EFI
 EFI for ASRock B460M PRO4 + I5 10400F + PowerColor AMD Radeon RX570 4GB
 
-This Hackintosh is based on OpenCore `0.8.8` and `MacOS Monterey 12.6` I used [Dortania Guide](https://dortania.github.io/OpenCore-Install-Guide/) for [Comet Lake](https://dortania.github.io/OpenCore-Install-Guide/config.plist/comet-lake.html#starting-point).
-![](https://raw.githubusercontent.com/mr00k3/asrock-b460m-pro4-oc-efi/main/screenshots/screenshot.jpg)
-## Working Things
-    iServices
-    DRM for Apple TV
-    Audio
-    USB
-    Sleep and Hibernation
-    FaceTime Calls
+This Hackintosh is based on OpenCore `0.9.2` and runs `macOS Ventura 13.4`
+Made using [Dortania Guide](https://dortania.github.io/OpenCore-Install-Guide/) for [Comet Lake](https://dortania.github.io/OpenCore-Install-Guide/config.plist/comet-lake.html#starting-point).
 
-## Notes
-    Built without WIFI and Bluetooth card
+<p>
+    <img src="screenshot.png" align="right">
+</p>
 
 ## Hackintosh Specs
 * CPU: Intel Core i5-10400F
 * GPU: PowerColor AMD Radeon RX570 4GB
 * MOBO: ASRock B460M PRO4
 * RAM: HyperX Fury RGB 16GB (2x8GB) 2666MHz
-* SSD M.2: WD SN550 500GB 
+* SSD M.2: WD SN550 500GB
+
+## Working Things
+iServices
+Audio
+USB
+Sleep and Hibernation
+FaceTime Calls
 
 ## BIOS
 * Secure Boot: OFF
@@ -33,7 +34,6 @@ Compiled using [SSDTTime](https://github.com/corpnewt/SSDTTime)
 * SSDT-AWAC
 * SSDT-EC-USBX
 * SSDT-PLUG
-* SSDT-HPET
 
 ## Kexts
 
@@ -46,13 +46,10 @@ All kexts downloaded from official repos
 * [VirtualSMC](https://github.com/acidanthera/VirtualSMC) - SMC emulator
 * [WhateverGreen.kext](https://github.com/acidanthera/WhateverGreen) - Graphics patches
 
-## Plist
+## Notes
 
-* Serial Numbers are generated using [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS)
-
-PlatfromInfo
-
-* iMac20,1
+Serial Numbers are generated using [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS)
+Built without WIFI and Bluetooth card
 
 ## Source Code
 
