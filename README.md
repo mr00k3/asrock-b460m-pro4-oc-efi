@@ -16,11 +16,11 @@ Made using [Dortania Guide](https://dortania.github.io/OpenCore-Install-Guide/) 
 * SSD M.2: WD SN550 500GB
 
 ## Working Things
-iServices
-Audio
-USB
-Sleep and Hibernation
-FaceTime Calls
+iServices <br>
+Audio <br>
+USB <br>
+Sleep and Hibernation <br>
+FaceTime Calls <br> 
 
 ## BIOS
 * Secure Boot: OFF
